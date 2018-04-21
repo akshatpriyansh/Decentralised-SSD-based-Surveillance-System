@@ -1,0 +1,7 @@
+* * * * * /usr/bin/python /home/osboxes/Desktop/MajorProject/machine_side/upload_to_s3.py
+* * * * * sleep 15; /usr/bin/python /home/osboxes/Desktop/MajorProject/machine_side/upload_to_s3.py
+* * * * * sleep 30; /usr/bin/python /home/osboxes/Desktop/MajorProject/machine_side/upload_to_s3.py
+* * * * * sleep 45; /usr/bin/python /home/osboxes/Desktop/MajorProject/machine_side/upload_to_s3.py
+
+
+paste this file in crontab -e

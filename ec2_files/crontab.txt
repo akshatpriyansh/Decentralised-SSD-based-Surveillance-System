@@ -1,0 +1,1 @@
+* * * * * for i in {1..12}; do /bin/bash /home/ec2-user/MajorProject/ec2_files/initialize.sh ; sleep 5; done
